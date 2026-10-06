@@ -1,0 +1,43 @@
+Om Hande
+Senior Frontend Developer | Angular Developer | TypeScript | Microfrontend Architecture
+Email: omhande89@gmail.com | Mobile: +91-8007884321 | Location: Pune, India
+Professional Summary
+Senior Frontend Developer with almost 11 years of IT experience, including 6 years of hands-on Angular development across Angular 10+ to Angular 21. Skilled in building scalable enterprise web applications using Angular, TypeScript, JavaScript, RxJS, REST APIs, reusable components, responsive design, and microfrontend architecture. Experienced in Angular modernization, module federation, standalone components, Signals, Agile delivery, code reviews, and cross-functional collaboration. Currently working with Cognizant as Sr. Associate - Projects, with additional 1 year of Python scripting and automation experience.
+Technical Skills
+•	Frontend: Angular, Angular 10+, Angular 12, Angular 15, Angular 18, Angular 21, TypeScript, JavaScript ES6+, HTML5, CSS3, Bootstrap, Responsive Web Design, Single-Page Applications
+•	Angular Framework: Angular CLI, Components, Services, Modules, Directives, Pipes, Dependency Injection, Angular Router, Lazy Loading, Guards, Interceptors, Reactive Forms, Template-Driven Forms, Form Validation
+•	State Management & Reactive Programming: RxJS, Observables, Subjects, BehaviorSubject, Subscriptions, Async Pipe, Effects, Reducers, Selectors
+•	UI Libraries: Angular Material, DevExtreme DataGrid, Component Libraries, Reusable UI Components
+•	API Integration: REST APIs, RESTful Web Services, HttpClientModule, JSON, Third-Party API Integration, Authentication UI Flows
+•	Backend / Scripting: Python, Node.js basics
+•	Tools & Methodologies: Git, GitHub, Postman, Jira, Visual Studio Code, Agile, Scrum, Code Reviews, Sprint Planning, Sprint Demo, CI/CD awareness
+Professional Experience
+Cognizant | Sr. Associate - Projects | October 2023 - Present
+•	LPL Financial - Actimize to Mantas Migration: Developed frontend modules for a trading-data management application supporting risk classification using configurable attributes, scores, and business rules. Built reusable Angular components, contextual drill-down structures using DevExtreme DataGrid, dynamic component loading features, and third-party API integrations.
+•	Avengers: Contributed to frontend modernization using module federation and microfrontend architecture. Worked on responsive UI implementation, reusable Angular components, and scalable integration patterns.
+•	BTF (Bridge to Future): Created a new Angular 21 application using standalone components and Angular Signals. Implemented modern Angular development practices to improve modularity, maintainability, and responsiveness.
+•	Developed and maintained scalable enterprise web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, REST API integration, and component-based architecture.
+•	Collaborated with onsite and offshore teams, scrum master, client leads, QA, and product stakeholders to deliver user stories in Agile sprint cycles.
+•	Participated in code reviews, debugging, sprint demos, technical discussions, documentation, and knowledge-sharing activities to improve delivery quality.
+LTIMindtree | Senior Software Engineer | April 2021 - August 2023
+•	Healthcare Application Migration: Migrated legacy healthcare application screens from AngularJS to Angular 12, improving maintainability and alignment with modern Angular architecture.
+•	Developed responsive Angular UI screens using TypeScript, JavaScript, HTML5, CSS3, Bootstrap, components, services, and routing.
+•	Implemented frontend features, form validations, REST API integration support, JSON handling, and reusable UI functionality.
+•	Participated in Agile ceremonies, sprint planning, story delivery, unit testing support, defect fixes, and code reviews.
+•	Optimized JSON structures and supported migration activities to reduce technical debt and improve long-term application supportability.
+Infosys | Technology Analyst | July 2015 - July 2021
+•	Delivered enterprise application development and production support across frontend development, automation support, and application maintenance activities.
+•	Developed Angular-based pages including login screens, admin screens, reusable components, routing flows, and user-facing functionality.
+•	Integrated REST APIs, authentication-related UI flows, Angular modules, lazy loading, and service-based frontend logic.
+•	Supported Python-based scripting and automation activities during internal application support and operational tasks.
+•	Collaborated with cross-functional teams to resolve defects, follow coding standards, support builds, and deliver enhancements in Agile environments.
+•	Provided knowledge sharing, technical guidance, codebase setup assistance, and troubleshooting support to team members.
+Education
+B.Sc. Computer Science, COCSIT, Latur, affiliated with SRTMU, Nanded.
+Professional Strengths
+•	Frontend Architecture: Component-based architecture, reusable UI components, responsive design, Angular modernization, microfrontend architecture awareness.
+•	Delivery Excellence: Agile delivery, sprint execution, code reviews, documentation, debugging, production support, and stakeholder collaboration.
+•	Enterprise Application Development: Experience in trading, risk, healthcare, admin, and data-driven application modules.
+•	Technical Collaboration: Work closely with onsite-offshore teams, scrum masters, client leads, QA teams, and product stakeholders.
+•	Continuous Learning: Strong interest in latest Angular versions, frontend best practices, Python scripting, AI-enabled productivity, and modern web technologies.
+
