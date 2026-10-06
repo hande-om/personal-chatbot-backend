@@ -5,7 +5,7 @@ from pydantic import BaseModel
 
 # MODERN STANDALONE IMPORTS (Replaces langchain_community)
 from langchain_chroma import Chroma
-from langchain_ollama import OllamaEmbeddings, ChatOllama
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 
 # CORE LANGCHAIN IMPORTS (Requires `pip install langchain`)
 # FIXED: Point to the modern classic namespace
@@ -49,13 +49,13 @@ async def startup_event():
 
         # 2. Setup Vector Store using the dedicated standalone Chroma package
         #embeddings = OllamaEmbeddings(model="llama3.2")
-        embeddings = OllamaEmbeddings(model="nomic-embed-text")
+        embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
         vector_store = Chroma.from_documents(docs, embeddings)
         retriever = vector_store.as_retriever(search_kwargs={"k": 1})
 
         # 3. Model & Chain Setup
-        llm = ChatOllama(model="llama3.2", temperature=0.3)
+        llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.3)
 
         system_prompt = (
             "You are a helpful assistant representing Om Khade. "

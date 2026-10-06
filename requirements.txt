@@ -4,3 +4,4 @@ langchain
 langchain-community
 chromadb
 langchain-ollama
+langchain_openai
